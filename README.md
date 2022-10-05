@@ -15,9 +15,10 @@ docker create --rm -it \
   beardedio/terraria
 ```
 
-Docker Images are avaiable on [Docker Hub](https://hub.docker.com/r/beardedio/terraria)
+Docker Images are avaiable on [Docker Hub](https://hub.docker.com/r/singprb/terraria)
 
 ### Supported tags and respective `Dockerfile` links
+* vanilla-1.4.4.4, vanilla-latest, latest [(containers/vanilla/1.4.4.3/Dockerfile)](https://github.com/singprb/terraria/blob/master/containers/vanilla/1.4.4.3/Dockerfile)
 * vanilla-1.4.4.3, vanilla-latest, latest [(containers/vanilla/1.4.4.3/Dockerfile)](https://github.com/beardedio/terraria/blob/master/containers/vanilla/1.4.4.3/Dockerfile)
 * vanilla-1.4.3.6 [(containers/vanilla/1.4.3.6/Dockerfile)](https://github.com/beardedio/terraria/blob/master/containers/vanilla/1.4.3.6/Dockerfile)
 * vanilla-1.4.2.3 [(containers/vanilla/1.4.2.3/Dockerfile)](https://github.com/beardedio/terraria/blob/master/containers/vanilla/1.4.2.3/Dockerfile)
