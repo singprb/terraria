@@ -25,6 +25,6 @@ jobs:
         name: Build and push
         uses: docker/build-push-action@v3
         with:
-          context: ./terraria/containers/vanilla/1.4.4.3
+          context: "{{defaultContext}}:vanilla"
           push: true
           tags: user/app:latest
