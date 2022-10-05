@@ -31,4 +31,4 @@ jobs:
           context: containers/vanilla/1.4.4.3
           file: containers/vanilla/1.4.4.3/Dockerfile
           push: true
-          tags: user/app:latest
+          tags: singprb/vanilla-terraria:latest
